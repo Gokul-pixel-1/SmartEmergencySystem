@@ -1,0 +1,93 @@
+text,label
+fire in room A,fire
+smoke coming from lab,fire
+flames detected in corridor,fire
+fire alarm triggered in room B,fire
+burning smell detected,fire
+sparks near electrical panel,fire
+heat and smoke in hallway,fire
+flame seen near storage area,fire
+explosion sound and smoke,fire
+fire spreading quickly,fire
+thick smoke in room,fire
+fire breakout in building,fire
+overheating equipment causing fire,fire
+fire emergency in lab,fire
+flames rising near door,fire
+electrical short circuit fire,fire
+smoke detected in basement,fire
+fire detected near exit,fire
+burning wires smell,fire
+fire hazard in storage room,fire
+fire in kitchen area,fire
+heavy smoke near ceiling,fire
+flames seen in electrical room,fire
+fire in parking area,fire
+smoke coming from AC unit,fire
+something is burning badly,fire
+there is a fire outbreak,fire
+intense heat and smoke,fire
+fire spreading across rooms,fire
+dangerous fire situation,fire
+
+person fainted near entrance,medical
+man unconscious in hall,medical
+someone injured and bleeding,medical
+person collapsed suddenly,medical
+heart attack suspected,medical
+person not breathing,medical
+injured person needs help,medical
+someone dizzy and weak,medical
+medical emergency in room,medical
+person fell down and unconscious,medical
+severe injury reported,medical
+someone having seizure,medical
+bleeding heavily,medical
+person needs first aid,medical
+emergency medical assistance required,medical
+person slipped and injured,medical
+someone unconscious in corridor,medical
+patient in critical condition,medical
+person choking,medical
+loss of consciousness reported,medical
+person with chest pain,medical
+someone feeling breathless,medical
+injury due to fall,medical
+head injury reported,medical
+person needs ambulance,medical
+someone is unconscious,medical
+help needed for injured person,medical
+person collapsed near door,medical
+medical emergency happening now,medical
+urgent medical help needed,medical
+
+gas leak detected in lab,gas
+chemical smell in storage,gas
+toxic gas spreading,gas
+strong gas odor detected,gas
+gas cylinder leaking,gas
+hazardous fumes in room,gas
+gas smell near kitchen,gas
+chemical leak detected,gas
+dangerous gas detected,gas
+air contamination suspected,gas
+toxic fumes detected,gas
+gas pipeline leakage,gas
+chemical vapor spreading,gas
+gas detected in basement,gas
+harmful gas in corridor,gas
+industrial gas leak,gas
+gas smell in building,gas
+dangerous fumes spreading,gas
+gas leakage emergency,gas
+toxic environment detected,gas
+gas smell near parking,gas
+chemical spill releasing gas,gas
+strong odor of gas,gas
+gas leakage in storage room,gas
+dangerous chemical fumes,gas
+there is gas leaking,gas
+smell of gas everywhere,gas
+gas spreading quickly,gas
+toxic gas emergency,gas
+dangerous air contamination,gas
